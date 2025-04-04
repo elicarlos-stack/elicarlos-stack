@@ -1,7 +1,17 @@
-## Hi there 👋 Seja bem-vindo ao meu perfil, Eu sou o Eli!
+## Hi there 👋 Seja bem-vindo ao meu perfil GitHub ![image](https://github.com/user-attachments/assets/4481838a-c4e2-4149-bf3b-a573ceb79060)
 
-**elicarlos-stack/elicarlos-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###  Sobre mim
 
+Formação: Segurança da Informação e Tecnico em Informatica enfoque em programação.
+Conhecimentos em programação: Html, CSS, JavaScript, Python, Linguagem Sql.
+Sistemas: Windows, Linux(Kali, Ubuntu, Debian).
+
+Princpais habilidades em segurança da Informação:
+- Conhecimento de Redes: Entender protocolos como TCP/IP, DNS e firewalls.
+- Noções de Sistemas Operacionais: Trabalhar com Windows, Linux e MacOS.
+- Identificação de Vulnerabilidades: Saber usar ferramentas como Nmap e Nessus.
+- Análise de Logs: Interpretar dados e eventos registrados nos sistemas.
+- Prática de Segurança: Aplicar boas práticas de segurança e proteção de dados.
 
 Sou estudante de Segurança da Informação com conhecimento em algumas linguagens de programação e desenvolvimento de projetos. Aqui você encontrará uma alguns dos meu projetos e ideias.
 
