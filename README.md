@@ -1,4 +1,4 @@
-## Hi there 👋 Seja bem-vindo ao meu perfil GitHub ![image](https://github.com/user-attachments/assets/4481838a-c4e2-4149-bf3b-a573ceb79060)
+## Hi there 👋 Seja bem-vindo ao meu perfil GitHub
 
 ###  Sobre mim
 
