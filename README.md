@@ -7,11 +7,11 @@ Conhecimentos em programação: Html, CSS, JavaScript, Python, Linguagem Sql.
 Sistemas: Windows, Linux(Kali, Ubuntu, Debian).
 
 Princpais habilidades em segurança da Informação:
-- Conhecimento de Redes: Entender protocolos como TCP/IP, DNS e firewalls.
-- Noções de Sistemas Operacionais: Trabalhar com Windows, Linux e MacOS.
-- Identificação de Vulnerabilidades: Saber usar ferramentas como Nmap e Nessus.
+- Conhecimento de Redes: conhecimento dos protocolos como TCP/IP, DNS e firewalls.
+- Noções de Sistemas Operacionais: Trabalhar com Windows, Linux.
+- Identificação de Vulnerabilidades: uso de ferramentas como Nmap e Nessus.
 - Análise de Logs: Interpretar dados e eventos registrados nos sistemas.
-- Prática de Segurança: Aplicar boas práticas de segurança e proteção de dados.
+- Prática de Segurança: como aplicar boas práticas de segurança e proteção de dados.
 
 Sou estudante de Segurança da Informação com conhecimento em algumas linguagens de programação e desenvolvimento de projetos. Aqui você encontrará uma alguns dos meu projetos e ideias.
 
