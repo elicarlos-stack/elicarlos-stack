@@ -1,12 +1,12 @@
 ## Hi there 👋 Seja bem-vindo ao meu perfil GitHub
 
-###  Sobre mim
+### :man: Sobre mim
 
-Formação: Segurança da Informação e Tecnico em Informatica enfoque em programação.
-Conhecimentos em programação: Html, CSS, JavaScript, Python, Linguagem Sql.
-Sistemas: Windows, Linux(Kali, Ubuntu, Debian).
+- Formação: Segurança da Informação e Tecnico em Informatica enfoque em programação.
+- Conhecimentos em programação: Html, CSS, JavaScript, Python, Linguagem Sql.
+- Sistemas: Windows, Linux(Kali, Ubuntu, Debian).
 
-Princpais habilidades em segurança da Informação:
+:computer: Princpais habilidades em segurança da Informação:
 - Conhecimento de Redes: conhecimento dos protocolos como TCP/IP, DNS e firewalls.
 - Noções de Sistemas Operacionais: Trabalhar com Windows, Linux.
 - Identificação de Vulnerabilidades: uso de ferramentas como Nmap e Nessus.
