@@ -1,8 +1,9 @@
-## Hi there 👋
+## Hi there 👋 Seja bem-vindo ao meu perfil, Eu sou o Eli!
 
 **elicarlos-stack/elicarlos-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-## Olá! 👋 Seja bem-vindo ao meu perfil!
+
+Sou estudante de Segurança da Informação com conhecimento em algumas linguagens de programação e desenvolvimento de projetos. Aqui você encontrará uma alguns dos meu projetos e ideias.
 
 🔭 Atualmente estou trabalhando em projetos relacionados à Segurança da Informação e soluções em AWS.
 
@@ -12,19 +13,11 @@
 
 💬 Pergunte-me sobre Docker, AWS e escalabilidade de sistemas!
 
-📫 Como me encontrar: [Seu email ou link para redes sociais]
+📫 Como me encontrar: https://www.linkedin.com/in/elicarlos-amorim/
 
-😄 Pronomes: [Se você quiser incluir]
-
-⚡ Curiosidade: Sou apaixonado por entender como a tecnologia pode transformar o cotidiano!
+⚡ Curiosidade: Sou apaixonado por entender como a tecnologia pode transformar o mundo em que vivemos!
 
 Aqui você encontrará alguns dos projetos que desenvolvi e tudo aquilo que estou explorando no momento. Espero que goste!
-
-
-
-# Olá! 👋 Eu sou o Elicarlos Amorim!
-
-Sou estudante de Segurança da Informação com experiência em linguagens de programação e desenvolvimento de projetos. Aqui você encontrará uma vitrine dos meus principais trabalhos e ideias.
 
 ## 🚀 Projetos em destaque
 - [Projeto Docker e AWS](https://github.com/elicarlos-stack/projeto_docker_aws)
