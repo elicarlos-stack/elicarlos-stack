@@ -21,7 +21,7 @@ Sou estudante de Segurança da Informação com conhecimento em algumas linguage
 
 👯 Procuro colaborar em projetos de tecnologia e desenvolvimento criativo.
 
-💬 Pergunte-me sobre Docker, AWS e escalabilidade de sistemas!
+💬 Conhecimento sobre Segurança da Informação, Docker, AWS e escalabilidade de sistemas!
 
 📫 Como me encontrar: https://www.linkedin.com/in/elicarlos-amorim/
 
