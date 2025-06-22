@@ -29,7 +29,7 @@ Sou estudante de Segurança da Informação com conhecimento em algumas linguage
 
 Aqui você encontrará alguns dos projetos que desenvolvi e tudo aquilo que estou explorando no momento. Espero que goste!
 
-## Status
+## 📟 Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elicarlos-stack&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ## 🖥  Most Used Languages
@@ -44,7 +44,7 @@ Aqui você encontrará alguns dos projetos que desenvolvi e tudo aquilo que esto
 - Linguagens de programação como Python, JavaScript e mais.
 
 ## 🌐 Redes sociais
-- [LinkedIn](#) | [Twitter](#) | [Portfólio](#)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elicarlos-amorim/) | [Portfólio](#)
 
 Muito obrigado por visitar meu perfil! 🚀
 
